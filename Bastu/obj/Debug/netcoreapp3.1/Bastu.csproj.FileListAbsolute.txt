@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\Bastu\Bastu\bin\Debug\netcoreapp3.1\Bastu.exe
+C:\Users\Alex\source\repos\Bastu\Bastu\bin\Debug\netcoreapp3.1\Bastu.deps.json
+C:\Users\Alex\source\repos\Bastu\Bastu\bin\Debug\netcoreapp3.1\Bastu.runtimeconfig.json
+C:\Users\Alex\source\repos\Bastu\Bastu\bin\Debug\netcoreapp3.1\Bastu.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Bastu\Bastu\bin\Debug\netcoreapp3.1\Bastu.dll
+C:\Users\Alex\source\repos\Bastu\Bastu\bin\Debug\netcoreapp3.1\Bastu.pdb
+C:\Users\Alex\source\repos\Bastu\Bastu\obj\Debug\netcoreapp3.1\Bastu.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Bastu\Bastu\obj\Debug\netcoreapp3.1\Bastu.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Bastu\Bastu\obj\Debug\netcoreapp3.1\Bastu.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Bastu\Bastu\obj\Debug\netcoreapp3.1\Bastu.dll
+C:\Users\Alex\source\repos\Bastu\Bastu\obj\Debug\netcoreapp3.1\Bastu.pdb
